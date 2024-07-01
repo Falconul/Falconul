@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **GameFinder**
 
-- 🌱 I’m currently learning **Next.js ,C#, React.js and Backend**
-
 - 🔭 I’m currently working on **Soh**
+
+- 🌱 I’m currently learning **Next.js ,C#, React.js and Backend**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/tayfun-deniz-32796b29b/](https://www.linkedin.com/in/tayfun-deniz-32796b29b/)
 
